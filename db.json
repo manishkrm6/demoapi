@@ -1,7 +1,7 @@
 {
   name: "Manish Kumar",
   age: 33,
-  Address: "Okhla New Delhi"
-  email: "manishkrm6@gmail.com"
+  Address: "Okhla New Delhi",
+  email: "manishkrm6@gmail.com",
   occupation: "React Developer"
 }
